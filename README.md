@@ -1,4 +1,4 @@
-# classe1-symfony-7.4-LTS
+# classe2-symfony-7.4-LTS
 
 Installation de Symfony dans l'environnement de développement sous Windows
 
